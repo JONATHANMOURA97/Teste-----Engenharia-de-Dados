@@ -4,11 +4,11 @@
 Este projeto é uma demonstração de engenharia de dados, onde são apresentados diferentes tipos de arquivos e notebooks utilizados para criar e analisar conjuntos de dados de vendas.
 
 ## Estrutura do Projeto
-- **Teste - Engenharia de dados (1).ipynb**: Notebook Jupyter contendo o código e a análise exploratória dos dados de vendas.
+- **Teste - Engenharia de dados (1).ipynb**: Notebook Jupyter contendo o código e a análise exploratória e ETL dos dados de vendas.
 - **Teste - Engenharia de dados.html**: Uma versão HTML do notebook acima mencionado.
 - **create_sales_dataset.ipynb**: Notebook Jupyter utilizado para criar o conjunto de dados de vendas.
 - **sales_dataset.csv**: Conjunto de dados de vendas em formato CSV.
-- **teste - Engenharia de Dados_JONATHAN MOURA.pdf**: Documento em PDF relacionado à engenharia de dados.
+- **teste - Engenharia de Dados_JONATHAN MOURA.pdf**: Case em PDF relacionado ao projeto de engenharia de dados.
 
 ## Uso
 - **Teste - Engenharia de dados (1).ipynb**: Execute este notebook para visualizar a análise dos dados de vendas.
