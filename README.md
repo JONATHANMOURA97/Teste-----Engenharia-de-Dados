@@ -1,7 +1,3 @@
-Claro, aqui está uma versão melhor formatada do readme:
-
----
-
 # Projeto de Engenharia de Dados
 
 ## Descrição
